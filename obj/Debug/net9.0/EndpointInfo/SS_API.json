@@ -1,0 +1,51 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "SS_API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Segmentation/run": {
+      "post": {
+        "tags": [
+          "Segmentation"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "required": [
+                  "File"
+                ],
+                "type": "object",
+                "properties": {
+                  "File": {
+                    "type": "string",
+                    "format": "binary"
+                  },
+                  "LimitRows": {
+                    "type": "boolean"
+                  }
+                }
+              },
+              "encoding": {
+                "File": {
+                  "style": "form"
+                },
+                "LimitRows": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

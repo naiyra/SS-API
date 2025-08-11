@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "SS_API.Controllers.SegmentationController",
+    "Method": "RunSegmentation",
+    "RelativePath": "api/Segmentation/run",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "LimitRows",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

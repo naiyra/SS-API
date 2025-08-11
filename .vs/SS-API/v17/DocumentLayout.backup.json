@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\reporting\\segmentinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:reporting\\segmentinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\utils\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:utils\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\reporting\\segmentsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:reporting\\segmentsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\reporting\\isegmentinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:reporting\\isegmentinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\pipeline\\smartsegpipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:pipeline\\smartsegpipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\models\\uploadfilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:models\\uploadfilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\machinelearning\\kmeans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:machinelearning\\kmeans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\machinelearning\\iclusterer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:machinelearning\\iclusterer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\machinelearning\\clusterer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:machinelearning\\clusterer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\machinelearning\\clustereddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:machinelearning\\clustereddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\machinelearning\\utils\\silhouettescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:machinelearning\\utils\\silhouettescore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\featureshandling\\minmaxscalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:featureshandling\\minmaxscalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\featureshandling\\labelencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:featureshandling\\labelencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\featureshandling\\ifeaturesengineering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:featureshandling\\ifeaturesengineering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\featureshandling\\featurestypedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:featureshandling\\featurestypedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\featureshandling\\featuresengineering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:featureshandling\\featuresengineering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\featureshandling\\featureengineeringcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:featureshandling\\featureengineeringcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\featureshandling\\columndropper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:featureshandling\\columndropper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\datahandling\\datacleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:datahandling\\datacleaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\core\\smartdataframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:core\\smartdataframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\core\\idataframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:core\\idataframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\controllers\\segmentationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:controllers\\segmentationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|c:\\users\\naiyr\\source\\repos\\ss-api2\\ss-api\\ss_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A1BC43A-36E1-4679-8ACF-F39971BF535E}|SS_API.csproj|solutionrelative:ss_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SegmentInterpreter.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\Reporting\\SegmentInterpreter.cs",
+              "RelativeDocumentMoniker": "Reporting\\SegmentInterpreter.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\Reporting\\SegmentInterpreter.cs",
+              "RelativeToolTip": "Reporting\\SegmentInterpreter.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:44:48.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SegmentSummary.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\Reporting\\SegmentSummary.cs",
+              "RelativeDocumentMoniker": "Reporting\\SegmentSummary.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\Reporting\\SegmentSummary.cs",
+              "RelativeToolTip": "Reporting\\SegmentSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T23:51:34.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISegmentInterpreter.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\Reporting\\ISegmentInterpreter.cs",
+              "RelativeDocumentMoniker": "Reporting\\ISegmentInterpreter.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\Reporting\\ISegmentInterpreter.cs",
+              "RelativeToolTip": "Reporting\\ISegmentInterpreter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:49:09.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:03:13.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CsvLoader.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\Utils\\CsvLoader.cs",
+              "RelativeDocumentMoniker": "Utils\\CsvLoader.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\Utils\\CsvLoader.cs",
+              "RelativeToolTip": "Utils\\CsvLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:29:40.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SmartSegPipeline.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\Pipeline\\SmartSegPipeline.cs",
+              "RelativeDocumentMoniker": "Pipeline\\SmartSegPipeline.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\Pipeline\\SmartSegPipeline.cs",
+              "RelativeToolTip": "Pipeline\\SmartSegPipeline.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T21:50:16.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UploadFileModel.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\Models\\UploadFileModel.cs",
+              "RelativeDocumentMoniker": "Models\\UploadFileModel.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\Models\\UploadFileModel.cs",
+              "RelativeToolTip": "Models\\UploadFileModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:10:36.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kmeans.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\MachineLearning\\Kmeans.cs",
+              "RelativeDocumentMoniker": "MachineLearning\\Kmeans.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\MachineLearning\\Kmeans.cs",
+              "RelativeToolTip": "MachineLearning\\Kmeans.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:30:23.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClusterer.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\MachineLearning\\IClusterer.cs",
+              "RelativeDocumentMoniker": "MachineLearning\\IClusterer.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\MachineLearning\\IClusterer.cs",
+              "RelativeToolTip": "MachineLearning\\IClusterer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:29:50.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Clusterer.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\MachineLearning\\Clusterer.cs",
+              "RelativeDocumentMoniker": "MachineLearning\\Clusterer.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\MachineLearning\\Clusterer.cs",
+              "RelativeToolTip": "MachineLearning\\Clusterer.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAqwI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:20:06.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClusteredData.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\MachineLearning\\ClusteredData.cs",
+              "RelativeDocumentMoniker": "MachineLearning\\ClusteredData.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\MachineLearning\\ClusteredData.cs",
+              "RelativeToolTip": "MachineLearning\\ClusteredData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T23:28:23.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SilhouetteScore.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\MachineLearning\\Utils\\SilhouetteScore.cs",
+              "RelativeDocumentMoniker": "MachineLearning\\Utils\\SilhouetteScore.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\MachineLearning\\Utils\\SilhouetteScore.cs",
+              "RelativeToolTip": "MachineLearning\\Utils\\SilhouetteScore.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:07:51.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MinMaxScalar.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\FeaturesHandling\\MinMaxScalar.cs",
+              "RelativeDocumentMoniker": "FeaturesHandling\\MinMaxScalar.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\FeaturesHandling\\MinMaxScalar.cs",
+              "RelativeToolTip": "FeaturesHandling\\MinMaxScalar.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:17:56.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LabelEncoder.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\FeaturesHandling\\LabelEncoder.cs",
+              "RelativeDocumentMoniker": "FeaturesHandling\\LabelEncoder.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\FeaturesHandling\\LabelEncoder.cs",
+              "RelativeToolTip": "FeaturesHandling\\LabelEncoder.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:17:46.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IFeaturesEngineering.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\FeaturesHandling\\IFeaturesEngineering.cs",
+              "RelativeDocumentMoniker": "FeaturesHandling\\IFeaturesEngineering.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\FeaturesHandling\\IFeaturesEngineering.cs",
+              "RelativeToolTip": "FeaturesHandling\\IFeaturesEngineering.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:16:59.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FeaturesTypeDetector.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\FeaturesHandling\\FeaturesTypeDetector.cs",
+              "RelativeDocumentMoniker": "FeaturesHandling\\FeaturesTypeDetector.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\FeaturesHandling\\FeaturesTypeDetector.cs",
+              "RelativeToolTip": "FeaturesHandling\\FeaturesTypeDetector.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:17:36.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FeaturesEngineering.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\FeaturesHandling\\FeaturesEngineering.cs",
+              "RelativeDocumentMoniker": "FeaturesHandling\\FeaturesEngineering.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\FeaturesHandling\\FeaturesEngineering.cs",
+              "RelativeToolTip": "FeaturesHandling\\FeaturesEngineering.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:45:14.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FeatureEngineeringContext.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\FeaturesHandling\\FeatureEngineeringContext.cs",
+              "RelativeDocumentMoniker": "FeaturesHandling\\FeatureEngineeringContext.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\FeaturesHandling\\FeatureEngineeringContext.cs",
+              "RelativeToolTip": "FeaturesHandling\\FeatureEngineeringContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:43:29.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ColumnDropper.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\FeaturesHandling\\ColumnDropper.cs",
+              "RelativeDocumentMoniker": "FeaturesHandling\\ColumnDropper.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\FeaturesHandling\\ColumnDropper.cs",
+              "RelativeToolTip": "FeaturesHandling\\ColumnDropper.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:20:32.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SmartDataFrame.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\Core\\SmartDataFrame.cs",
+              "RelativeDocumentMoniker": "Core\\SmartDataFrame.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\Core\\SmartDataFrame.cs",
+              "RelativeToolTip": "Core\\SmartDataFrame.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAmwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:07:45.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IDataFrame.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\Core\\IDataFrame.cs",
+              "RelativeDocumentMoniker": "Core\\IDataFrame.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\Core\\IDataFrame.cs",
+              "RelativeToolTip": "Core\\IDataFrame.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T13:27:58.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataCleaner.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\DataHandling\\DataCleaner.cs",
+              "RelativeDocumentMoniker": "DataHandling\\DataCleaner.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\DataHandling\\DataCleaner.cs",
+              "RelativeToolTip": "DataHandling\\DataCleaner.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAuwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T00:40:55.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SegmentationController.cs",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\Controllers\\SegmentationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SegmentationController.cs",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\Controllers\\SegmentationController.cs",
+              "RelativeToolTip": "Controllers\\SegmentationController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:06:11.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SS_API.csproj",
+              "DocumentMoniker": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\SS_API.csproj",
+              "RelativeDocumentMoniker": "SS_API.csproj",
+              "ToolTip": "C:\\Users\\naiyr\\source\\repos\\SS-API2\\SS-API\\SS_API.csproj",
+              "RelativeToolTip": "SS_API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T18:27:50.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
